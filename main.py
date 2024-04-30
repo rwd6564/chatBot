@@ -5,7 +5,7 @@ from telegram import Update, ForceReply
 from telegram.ext import ContextTypes, ApplicationBuilder, CommandHandler, MessageHandler, filters
 import database
 
-token = "7129846223:AAFd5Eqmf3oT8wNrYhDWMlUvsDVCaLRMPkw"
+token = "본인 토큰"
 
 chat = ""
 
